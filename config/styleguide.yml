@@ -12,8 +12,7 @@ base_dir: app/stylesheets
 template: doc/styleguide/template.mustache
 
 # optional - Inline DressCode CSS styles, defaults to true
-dress_code_css: true
+dress_code_css: false 
 
 # optional - Inline DressCode JS, defaults to true
-dress_code_js: true
-
+dress_code_js: false
